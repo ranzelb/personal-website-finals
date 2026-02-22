@@ -5,7 +5,7 @@
       <div class="hero-bg-text" aria-hidden="true">PORTFOLIO</div>
       <div class="hero-content">
         <p class="hero-eyebrow animate-fadeUp">Hello, world — I'm</p>
-        <h1 class="hero-name animate-fadeUp delay-1">Your Name</h1>
+        <h1 class="hero-name animate-fadeUp delay-1">Ranzel John Binggoy</h1>
         <div class="hero-title-row animate-fadeUp delay-2">
           <span class="hero-line"></span>
           <span class="hero-role">Web Developer &amp; Designer</span>
@@ -195,21 +195,21 @@
               <span class="contact-icon">✉</span>
               <div>
                 <span class="contact-label mono">Email</span>
-                <span class="contact-val">your@email.com</span>
+                <span class="contact-val">rpbinggoy@student.apc.edu.ph</span>
               </div>
             </a>
             <a href="https://github.com/yourusername" target="_blank" class="contact-item">
               <span class="contact-icon">⌥</span>
               <div>
                 <span class="contact-label mono">GitHub</span>
-                <span class="contact-val">@yourusername</span>
+                <span class="contact-val">@ranzelb</span>
               </div>
             </a>
             <a href="https://linkedin.com/in/yourprofile" target="_blank" class="contact-item">
               <span class="contact-icon">◈</span>
               <div>
                 <span class="contact-label mono">LinkedIn</span>
-                <span class="contact-val">Your Name</span>
+                <span class="contact-val">Ranzel Binggoy</span>
               </div>
             </a>
           </div>
