@@ -202,14 +202,14 @@
               <span class="contact-icon">⌥</span>
               <div>
                 <span class="contact-label mono">GitHub</span>
-                <span class="contact-val">@ranzelb</span>
+                <span class="contact-val">https://github.com/ranzelb</span>
               </div>
             </a>
             <a href="https://linkedin.com/in/yourprofile" target="_blank" class="contact-item">
               <span class="contact-icon">◈</span>
               <div>
                 <span class="contact-label mono">LinkedIn</span>
-                <span class="contact-val">Ranzel Binggoy</span>
+                <span class="contact-val">https://www.linkedin.com/in/ranzel-binggoy-360263323/</span>
               </div>
             </a>
           </div>
